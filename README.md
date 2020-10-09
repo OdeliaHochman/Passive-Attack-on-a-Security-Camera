@@ -24,9 +24,9 @@ The code was written in python 3.6.8 in Linux operating system.
 
 
 ## Run the code:
-* clone this project
-* `sudo su`
-* `python3 project.py`
+1. clone this project
+2. `sudo su`
+3. `python3 project.py`
 
 ## Attack Stages:
 1. Turning a Wifi Adapter Card into a monitor mode
