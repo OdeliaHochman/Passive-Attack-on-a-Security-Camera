@@ -34,3 +34,8 @@ The code was written in python 3.6.8 in Linux operating system.
 3. Perform sniffing and retrieving all packages of this device
 4. Decoding information of the packages
 5. Receiving the JPEG Images
+
+
+
+![image](https://user-images.githubusercontent.com/45036697/95592159-ede80780-0a50-11eb-9582-ecb65687a127.png)
+
