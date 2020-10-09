@@ -86,14 +86,14 @@ def findStartOfImage(startIndex,numOfImage=None):
         ii += 1
 
 
-if __name__ == '__main__':
-  createImagesFolder()
-  fname=extractFileTCP.TcpPcapToRawBytesFile()
-  with open(fname, 'rb') as f:
-    data = f.read()
-  # pl contains all the tcp stream extracted from the pcap file
-  pl = ([p for p in data])
-  file_stats = os.stat(fname)
-  fileLen = file_stats.st_size
-  print("fileLen = %d",fileLen)
-  findStartOfImage(0, numOfImage)
+# if __name__ == '__main__':
+#   createImagesFolder()
+#   fname=extractFileTCP.TcpPcapToRawBytesFile()
+#   with open(fname, 'rb') as f:
+#     data = f.read()
+#   # pl contains all the tcp stream extracted from the pcap file
+#   pl = ([p for p in data])
+#   file_stats = os.stat(fname)
+#   fileLen = file_stats.st_size
+#   print("fileLen = %d",fileLen)
+#   findStartOfImage(0, numOfImage)
