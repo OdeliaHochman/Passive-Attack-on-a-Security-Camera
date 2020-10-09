@@ -2,6 +2,8 @@
 
 Final project in the course "Protection of wireless and mobile networks" at Ariel University 2020.
 
+A Passive Attack tool that intercepts packets from a Security Camera, retrieves JPEG images and saves them.
+
 
 **Created by:**
 
