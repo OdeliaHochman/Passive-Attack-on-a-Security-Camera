@@ -22,7 +22,13 @@ The code was written in python 3.6.8 in Linux operating system.
 
 
 ## Run the code:
-
 * clone this project
 * `sudo su`
 * `python3 project.py`
+
+## Attack Stages:
+1. Turning a Wifi Adapter Card into a monitor mode
+2. Scanning networks and selecting the device we want to attack (in this case the Security Camera)
+3. Perform sniffing and retrieving all packages of this device
+4. Decoding information of the packages
+5. Receiving the JPEG Images
