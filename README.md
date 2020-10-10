@@ -13,7 +13,7 @@ A Passive Attack tool that intercepts packets from a Security Camera, retrieves 
 
 [Max Marmer](https://github.com/MarmerMax)
 
- <img src="Images/camera.JPG" width=300>
+ <img src="Images/camera.JPG" width=200>
 
 
 ## Working Environment:
