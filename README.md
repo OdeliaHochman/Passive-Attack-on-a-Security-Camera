@@ -1,4 +1,4 @@
-# Passive Attack on a Security Camera
+ #  Passive Attack on a Security Camera   <img src="Images/camera.JPG" width="100" height="100" >
 
 Final project in the course "Protection of wireless and mobile networks" at Ariel University 2020.
 
@@ -13,7 +13,7 @@ A Passive Attack tool that intercepts packets from a Security Camera, retrieves 
 
 [Max Marmer](https://github.com/MarmerMax)
 
- <img src="Images/camera.JPG" width=200>
+
 
 
 ## Working Environment:
