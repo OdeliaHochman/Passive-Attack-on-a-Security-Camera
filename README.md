@@ -13,9 +13,7 @@ A Passive Attack tool that intercepts packets from a Security Camera, retrieves 
 
 [Max Marmer](https://github.com/MarmerMax)
 
-
-
-![image](https://user-images.githubusercontent.com/45036697/95592993-e2491080-0a51-11eb-8b19-d5d9035c7278.png)
+ <img src="Images/camera.JPG" width=300>
 
 
 ## Working Environment:
@@ -41,5 +39,5 @@ The code was written in python 3.6.8 in Linux operating system.
 
 
 
-![image](https://user-images.githubusercontent.com/45036697/95592159-ede80780-0a50-11eb-9582-ecb65687a127.png)
+<img src="Images/dir.jpg" width=500>
 
